@@ -6,7 +6,8 @@ Test WebNote Application C#
     make build
     make run
 
-Check local address in the command line
+Check local address in the command line ( __http://localhost:5031__)
+
 
 You can see swagger documentation at
 
