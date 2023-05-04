@@ -3,8 +3,8 @@ Test WebNote Application C#
 
 # How to run
 
-make build
-make run
+    make build
+    make run
 
 Check local address in the command line
 
@@ -15,5 +15,5 @@ You can see swagger documentation at
 
 # Test Examples
 
-Check sh folder for test examples.
+Check _sh_ folder for test examples.
 
